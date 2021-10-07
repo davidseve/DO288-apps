@@ -1,2 +1,3 @@
 #!/bin/bash
+echo "teest"
 exec /usr/libexec/s2i/run --lang es
